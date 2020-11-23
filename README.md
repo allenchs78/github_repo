@@ -1,3 +1,2 @@
 # github_repo
-Github repo for openSAP training
-So easy ar..
+Github repo for openSAP training -ended-
